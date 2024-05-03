@@ -1,7 +1,7 @@
 # Data-Analysis
 crime case analysis visualization using power BI
 
-Created Visualizations, Attractive Dashboards and Story in Tableau.
+Created Visualizations, Attractive Dashboards and Story.
 Data Cleaned using Power Query Editor
 Created Reports in Power BI and Published in Power BI Service
 Dataset used: Crime Dataset
